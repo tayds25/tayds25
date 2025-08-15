@@ -1,19 +1,33 @@
 <img src="assets/github_banner.png" width="100%" height="auto"/>
 <p align="center">
-  <a href="www.linkedin.com/in/tayshaunds25"><img width="36px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin_logo.png"/></a>
-  <a href="mailto:tayshaunds25@gmail.com"><img width="36px" alt="Email" title="Email" src="assets/email_logo.png"/></a>
+  <a href="www.linkedin.com/in/tayshaunds25"><img width="36px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin_logo.png"/></a>&nbsp;&nbsp;
+  <a href="mailto:tayshaunds25@gmail.com"><img width="46px" alt="Email" title="Email" src="assets/email_logo.png"/></a>
 </p>
 
 <br>
 
-**Front-End Development and UI/UX Enthusiast**<br>
+<p>
+
+**Hi, I'm Tayshaun 👋**<br>
 
 🚀 Full-stack developer leaning towards front-end and UI/UX<br>
+⚙️ Specializes in Web Development<br>
+🎨 Loves creating design systems and wireframing/prototyping on Figma<br>
 🏫 Studies Computer Science at Mapúa University in the Philippines<br>
-📔 Currently learning about linux, design principles, and creating UI/UX case studies<br>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tayshaunds25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayshaunds25@gmail.com)
+<div>
+<details>
+  <summary>🧑 More about me</summary>
+  <br>
+  <p>
+    I love the process and learning that comes with being a developer. I am always looking for ways to challenge and improve on my current workflows and design processes. Despite having experience with full-stack project development and management of back-end services like MySQL and MongoDB, I favor Front-end development and UI/UX design due to the creative nature that comes with it. I am always enthusiastic when it comes to new projects because of the process. The gathering of inspiration, creation of design systems, wireframing, and the implementation of the design and transformation to code are all satisfying to do.
+  </p>
+  <p>
+    Outside of my workflow, I am a linux user that loves using open source tools and learning all things technology. Whether these are fiddling with terminal tools, ricing my system, or learning about the latest peripherals and accessories, I am a big nerd for computers and everything that comes with it.
+  </p>
+</details>
+
+</p>
 
 # 💻 Languages and Tools
 
@@ -41,6 +55,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tayds25&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-
-<!-- ////////////////// -->
