@@ -11,7 +11,7 @@
 **Hi, I'm Tayshaun 👋**<br>
 
 🚀 Full-stack developer leaning towards front-end and UI/UX<br>
-⚙️ Specializes in Web Development<br>
+⚙️ Specializes in Web and Software Development<br>
 🎨 Loves creating design systems and wireframing/prototyping on Figma<br>
 🏫 Studies Computer Science at Mapúa University in the Philippines<br>
 
