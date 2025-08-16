@@ -1,6 +1,6 @@
 <img src="assets/github_banner.png" width="100%" height="auto"/>
 <p align="center">
-  <a href="www.linkedin.com/in/tayshaunds25"><img width="36px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin_logo.png"/></a>&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/tayshaunds"><img width="36px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin_logo.png"/></a>&nbsp;&nbsp;
   <a href="mailto:tayshaunds25@gmail.com"><img width="46px" alt="Email" title="Email" src="assets/email_logo.png"/></a>
 </p>
 
