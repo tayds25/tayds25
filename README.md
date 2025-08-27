@@ -53,5 +53,3 @@
 | ![](https://github-readme-stats.vercel.app/api?username=tayds25&theme=nord&hide_border=false&include_all_commits=true&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=tayds25&theme=nord&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayds25&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
 | --- | --- | --- |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tayds25&theme=nord&no-frame=false&no-bg=true&margin-w=4)
