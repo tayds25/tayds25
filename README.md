@@ -54,5 +54,5 @@
 | --- | --- | --- | -->
 
 # 📊 GitHub Stats
-| ![](./profile/stats.svg) | ![](./profile/top-langs.svg) |
+| ![](./profile/stats.svg) | ![](./profile/top-langs.svg?v=1) |
 | --- | --- |
