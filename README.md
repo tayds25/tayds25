@@ -53,5 +53,5 @@
 
 <p align="center">
   <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg?v=2" height="170" alt="Top Languages" />
+  <img src="./profile/top-langs.svg?v=2" height="180" alt="Top Languages" />
 </p>
