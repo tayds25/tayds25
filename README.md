@@ -52,6 +52,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg?v=1" height="150" alt="GitHub Stats" />
+  <img src="./profile/stats.svg?v=2" height="150" alt="GitHub Stats" />
   <img src="./profile/top-langs.svg?v=2" height="150" alt="Top Languages" />
 </p>
