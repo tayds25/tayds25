@@ -49,10 +49,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- # 📊 GitHub Stats
-| ![](https://github-readme-stats.vercel.app/api?username=tayds25&theme=nord&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=tayds25&theme=nord&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayds25&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-| --- | --- | --- | -->
-
 # 📊 GitHub Stats
-| ![](./profile/stats.svg) | ![](./profile/top-langs.svg?v=1) |
-| --- | --- |
+
+<p align="center">
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg?v=2" height="170" alt="Top Languages" />
+</p>
