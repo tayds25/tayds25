@@ -13,7 +13,7 @@
 🚀 Full-stack developer leaning towards front-end and UI/UX<br>
 ⚙️ Specializes in Web and Software Development<br>
 🎨 Loves creating design systems and wireframing/prototyping on Figma<br>
-🏫 Studies Computer Science at Mapúa University in the Philippines<br>
+🏫 Graduated with a Bachelor's Degree in Computer Science at Mapúa University in the Philippines<br>
 
 <div>
 <details>
@@ -32,11 +32,11 @@
 # 💻 Languages and Tools
 
 **Programming**<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React]()
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3]()
+![TailwindCSS]()
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
